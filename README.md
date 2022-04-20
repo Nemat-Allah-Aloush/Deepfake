@@ -1,6 +1,8 @@
 # Deepfake
 Deepfake with Keras. A guided project associated with Coursera.
 
+The received ***certificate*** based on this course can be found [here](https://coursera.org/share/86dd8cea1735a77a8770c67cdce22473).
+
 #### About the project
 Implementing a Deep Convolutional Generative Adversarial Network (DCGAN) and training it to generate realistic looking synthesized images. 
 The term deep fake is associated with synthetic data, which is similar to Real World Observed data, often with synthesized images.
